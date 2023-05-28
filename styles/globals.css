@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.faq1{
+    color: white;
+    overflow: hidden;
+    background-color: '#303030';
+    height: auto;
+    transition: 500ms ease-out;
+
+}
+
+.faq{
+    transition: 500ms ease-in
+
+}
+.faq-1{
+    transition: 500ms ease-in
+
+}
+.faq2{
+    transition: 500ms ease-in
+
+}
+.faq3{
+    transition: 500ms ease-in
+
+}
